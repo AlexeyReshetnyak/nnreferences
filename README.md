@@ -1,5 +1,6 @@
 # nnreferences
 References about different aspects in the neural networks subject.
+
 #Hebbian rule and PCA
 
 https://pdfs.semanticscholar.org/47dd/a8d31c3b301e24784b3e49f97dbecdcfc6a1.pdf
