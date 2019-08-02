@@ -31,3 +31,12 @@ I201
 Adaptive Principal Component
 Extraction (APEX) and Applications
 S. Y. Kung, Fellow, IEEE, K. I. Diamantaras, Member, IEEE, and J. S. Taur
+
+# Reinforcement
+https://github.com/eriklindernoren/ML-From-Scratch
+
+Boltzmann in reinforcement
+Nicolas Heess, David Silver, and Yee Whye Teh. Actor-critic reinforcement learning with
+energy-based policies. In European Workshop on Reinforcement Learning, page 43, 2012.
+
+http://www.cs.toronto.edu/~fritz/absps/sallans04a.pdf
